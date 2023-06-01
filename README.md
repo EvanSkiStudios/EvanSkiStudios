@@ -15,7 +15,7 @@ We make games for the GameMaker Community Jam (That I Co-host)
 [GMC Jam Info](https://forum.gamemaker.io/index.php?threads/gmc-jam-welcomes-you.35/)  
 
 ## Check out my Github page
-https://evanskistudios.github.io/
+[https://evanskistudios.github.io/](https://github.com/EvanSkiStudios/EvanSkiStudios.github.io)
 
 ## Social Links
 [GameMaker Fourms (Evanski)](https://forum.gamemaker.io/index.php?members/evanski.28930/)    
