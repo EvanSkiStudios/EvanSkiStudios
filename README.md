@@ -26,4 +26,4 @@ We make games for the GameMaker Community Jam (That I Co-host)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-evanskistudios.vercel.app/api?username=EvanSkiStudios&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)    
-[![Top Langs](https://github-readme-stats-evanskistudios.vercel.app/api/top-langs/?username=EvanSkiStudios&hide=yacc&exclude_repo=github-readme-stats,evanskistudios.github.io&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-evanskistudios.vercel.app/api/top-langs/?username=EvanSkiStudios&exclude_repo=github-readme-stats,evanskistudios.github.io&hide=yacc&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
