@@ -21,7 +21,6 @@ We make games for the GameMaker Community Jam (That I Co-host)
 [GameMaker Fourms (Evanski)](https://forum.gamemaker.io/index.php?members/evanski.28930/)    
 [Youtube (EvanskiStudios)](https://www.youtube.com/channel/UCTggXbP12hlwtP2Q-lDkojQ)    
 [Itch.io (Evanski)](https://evaccoon.itch.io/)    
-[mastodon (Evanski)](https://mastodon.gamedev.place/@Evanski)    
 [Blogspot Social Links](https://evanskistudios.blogspot.com/p/about.html)     
 
 ## [Anurag's GitHub stats API](https://github.com/anuraghazra/github-readme-stats)
