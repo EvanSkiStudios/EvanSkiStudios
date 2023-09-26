@@ -14,10 +14,10 @@ Pixellated Hammered Raccoon
 We make games for the GameMaker Community Jam (That I Co-host)  
 [GMC Jam Info](https://forum.gamemaker.io/index.php?threads/gmc-jam-welcomes-you.35/)  
 
-## [Check out my Github page]](https://github.com/EvanSkiStudios)
+## [Check out my Github page](https://github.com/EvanSkiStudios)
 [https://evanskistudios.github.io/](https://github.com/EvanSkiStudios/EvanSkiStudios.github.io)
 
-## [Social Links]](https://github.com/EvanSkiStudios)
+## [Social Links](https://github.com/EvanSkiStudios)
 [GameMaker Fourms (Evanski)](https://forum.gamemaker.io/index.php?members/evanski.28930/)    
 [Youtube (EvanskiStudios)](https://www.youtube.com/channel/UCTggXbP12hlwtP2Q-lDkojQ)    
 [Itch.io (Evanski)](https://evaccoon.itch.io/)    
