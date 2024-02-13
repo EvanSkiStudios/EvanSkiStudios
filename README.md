@@ -1,10 +1,10 @@
 # [Welcome to my github profile](https://github.com/EvanSkiStudios)
-Im an independent programmer  
+I'm an independent programmer  
 I make games, applications, and other things.  
-I mostly use GML, but occasionally I use an professional programing language  
+I mostly use GML, but occasionally I use a professional programming language  
 
 I make games under the name EvanskiStudios  
-Sometimes work with my friends in an Indie Group called  
+Sometimes, I work with my friends in an Indie Group called  
 
 Pixellated Hammered Raccoon  
 [@pferguso6222](https://github.com/pferguso6222)    
@@ -24,5 +24,5 @@ We make games for the GameMaker Community Jam (That I Co-host)
 [Blogspot Social Links](https://evanskistudios.blogspot.com/p/about.html)     
 
 ## [Anurag's GitHub stats API](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanSkiStudios&show_icons=true&rank_icon=github&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanSkiStudios&custom_title=Most%20Used%20Languages%20By%20Repo&exclude_repo=github-readme-stats,GMC-Code-Bank&hide=yacc,glsl&size_weight=0&count_weight=1&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://evanskistudios-github-readme-stats.vercel.app/api?username=EvanSkiStudios&show_icons=true&rank_icon=github&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)    
+[![Top Langs](https://evanskistudios-github-readme-stats.vercel.app/api/top-langs/?username=EvanSkiStudios&custom_title=Most%20Used%20Languages%20By%20Repo&exclude_repo=github-readme-stats,GMC-Code-Bank&hide=yacc,glsl&size_weight=0&count_weight=1&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
