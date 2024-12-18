@@ -36,6 +36,6 @@ I actively participate in the GameMaker Community Jam, where we create exciting 
 - [GameMaker Forums (Evanski)](https://forum.gamemaker.io/index.php?members/evanski.28930/)
 - [YouTube (EvanSkiStudios)](https://www.youtube.com/channel/UCTggXbP12hlwtP2Q-lDkojQ)
 - [Itch.io (Evanski)](https://evaccoon.itch.io/)
-- [BlueSky]([https://evanskistudios.blogspot.com/p/about.html](https://bsky.app/profile/evanski.bsky.social))
+- [BlueSky](https://bsky.app/profile/evanski.bsky.social)
 
 ## Thank You for Visiting!
