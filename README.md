@@ -1,28 +1,41 @@
-# [Welcome to my github profile](https://github.com/EvanSkiStudios)
-I'm an independent programmer  
-I make games, applications, and other things.  
-I mostly use GML, but occasionally I use a professional programming language  
+# Welcome to My GitHub Profile! 🎉
 
-I make games under the name EvanskiStudios  
-Sometimes, I work with my friends in an Indie Group called  
+## About Me
 
-Pixellated Hammered Raccoon  
-[@pferguso6222](https://github.com/pferguso6222)    
-[@kburkhart84](https://github.com/kburkhart84)  
+Hello! I'm an independent programmer passionate about creating games, applications, and various other projects. I primarily use GameMaker Language (GML), but I also dabble in other professional programming languages.
 
+### My Work
 
-We make games for the GameMaker Community Jam (That I Co-host)  
-[GMC Jam Info](https://forum.gamemaker.io/index.php?threads/gmc-jam-welcomes-you.35/)  
+I develop games under the name **EvanSkiStudios**. Occasionally, I collaborate with friends in an indie group called **Pixellated Hammered Raccoon**. Together, we create games for the GameMaker Community Jam, which I co-host.
 
-## [Check out my Github page](https://github.com/EvanSkiStudios)
-[https://evanskistudios.github.io/](https://github.com/EvanSkiStudios/EvanSkiStudios.github.io)
+## Projects and Contributions
 
-## [Social Links](https://github.com/EvanSkiStudios)
-[GameMaker Fourms (Evanski)](https://forum.gamemaker.io/index.php?members/evanski.28930/)    
-[Youtube (EvanskiStudios)](https://www.youtube.com/channel/UCTggXbP12hlwtP2Q-lDkojQ)    
-[Itch.io (Evanski)](https://evaccoon.itch.io/)    
-[Blogspot Social Links](https://evanskistudios.blogspot.com/p/about.html)     
+### Notable Projects
 
-## [Anurag's GitHub stats API](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://evanskistudios-github-readme-stats.vercel.app/api?username=EvanSkiStudios&show_icons=true&rank_icon=github&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)    
-[![Top Langs](https://evanskistudios-github-readme-stats.vercel.app/api/top-langs/?username=EvanSkiStudios&custom_title=Most%20Used%20Languages%20By%20Repo&exclude_repo=github-readme-stats,GMC-Code-Bank&hide=yacc,glsl&size_weight=0&count_weight=1&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- **[F.U.R]([https://github.com/EvanSkiStudios/project1](https://github.com/EvanSkiStudios/FUR))**: A repo of free-to-use scripts and assets for GameMaker.
+- **[AutoPaste]([https://github.com/EvanSkiStudios/project2](https://github.com/EvanSkiStudios/AutoPaste))**: a python script that converts what's in your clipboard to keypresses, useful for when normal copypaste won't work.
+- **[Audio Collections](https://github.com/EvanSkiStudios/EvanskisAudioCollections)**: A framework for enabling/disabling a group of sounds in GM.
+
+### Collaborations
+
+- **[Pixellated Hammered Raccoon](https://github.com/orgs/PixellatedHammeredRaccoon)**:
+  - [@pferguso6222](https://github.com/pferguso6222)
+  - [@kburkhart84](https://github.com/kburkhart84)
+
+### Community Involvement
+
+I actively participate in the GameMaker Community Jam, where we create exciting games and engage with the community. You can learn more about the GMC Jam [here](https://forum.gamemaker.io/index.php?threads/gmc-jam-welcomes-you.35/).
+
+## Connect with Me
+
+### GitHub
+- [GitHub Profile](https://github.com/EvanSkiStudios)
+- [GitHub Pages](https://evanskistudios.github.io/)
+
+### Social Links
+- [GameMaker Forums (Evanski)](https://forum.gamemaker.io/index.php?members/evanski.28930/)
+- [YouTube (EvanSkiStudios)](https://www.youtube.com/channel/UCTggXbP12hlwtP2Q-lDkojQ)
+- [Itch.io (Evanski)](https://evaccoon.itch.io/)
+- [BlueSky]([https://evanskistudios.blogspot.com/p/about.html](https://bsky.app/profile/evanski.bsky.social))
+
+## Thank You for Visiting!
