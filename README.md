@@ -6,7 +6,7 @@ Hello! I'm an independent programmer passionate about creating games, applicatio
 
 ### My Work
 
-I develop games under the name **EvanSkiStudios**. Occasionally, I collaborate with friends in an indie group called **Pixellated Hammered Raccoon**. Together, we create games for the GameMaker Community Jam, which I co-host.
+I develop games under the name **EvanSkiStudios**. Occasionally, I collaborate with friends in an indie group called **Pixellated Hammered Raccoon**. Together, we create games for the GameMaker Community Jam, which I previously co-hosted.
 
 ## Projects and Contributions
 
