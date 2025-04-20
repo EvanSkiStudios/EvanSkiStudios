@@ -15,6 +15,7 @@ I develop games under the name **EvanSkiStudios**. Occasionally, I collaborate w
 - **[F.U.R](https://github.com/EvanSkiStudios/FUR)**: A repo of free-to-use scripts and assets for GameMaker.
 - **[AutoPaste](https://github.com/EvanSkiStudios/AutoPaste)**: A Python script that converts what's in your clipboard to keypresses, useful for when normal copypaste won't work.
 - **[Audio Collections](https://github.com/EvanSkiStudios/EvanskisAudioCollections)**: A framework for enabling/disabling a group of sounds in GM.
+- **[FlukeBot](https://github.com/EvanSkiStudios/flukebot)**: A Discord AI LLM chat bot
 
 ### Collaborations
 
