@@ -6,16 +6,18 @@ Hello! I'm an independent programmer passionate about creating games, applicatio
 
 ### My Work
 
-I develop games under the name **EvanSkiStudios**. Occasionally, I collaborate with friends in an indie group called **Pixellated Hammered Raccoon**. Together, we create games for the GameMaker Community Jam, which I previously co-hosted.
+I develop games under the name **EvanskiStudios**.  
+Occasionally, I collaborate with friends in an indie group called **Pixellated Hammered Raccoon**.  
+Together, we create games for the GameMaker Community Jam, which I previously co-hosted.  
 
 ## Projects and Contributions
 
 ### Notable Projects
 
+- **[FlukeBot](https://github.com/EvanSkiStudios/flukebot)**: A Discord AI LLM chat bot  
 - **[F.U.R](https://github.com/EvanSkiStudios/FUR)**: A repo of free-to-use scripts and assets for GameMaker.
 - **[AutoPaste](https://github.com/EvanSkiStudios/AutoPaste)**: A Python script that converts what's in your clipboard to keypresses, useful for when normal copypaste won't work.
 - **[Audio Collections](https://github.com/EvanSkiStudios/EvanskisAudioCollections)**: A framework for enabling/disabling a group of sounds in GM.
-- **[FlukeBot](https://github.com/EvanSkiStudios/flukebot)**: A Discord AI LLM chat bot
 
 ### Collaborations
 
