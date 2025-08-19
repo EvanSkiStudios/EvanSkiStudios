@@ -14,6 +14,7 @@ Together, we create games for the GameMaker Community Jam, which I previously co
 
 ### Notable Projects
 
+- **[SAM](https://github.com/EvanSkiStudios/sam_ai_assistant)**: AI Assistant successor to Flukebot
 - **[FlukeBot](https://github.com/EvanSkiStudios/flukebot)**: A Discord AI LLM chat bot  
 - **[F.U.R](https://github.com/EvanSkiStudios/FUR)**: A repo of free-to-use scripts and assets for GameMaker.
 - **[AutoPaste](https://github.com/EvanSkiStudios/AutoPaste)**: A Python script that converts what's in your clipboard to keypresses, useful for when normal copypaste won't work.
