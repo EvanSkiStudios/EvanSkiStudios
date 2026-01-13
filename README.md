@@ -37,6 +37,8 @@ I actively participate in the GameMaker Community Jam, where we create exciting 
 - [GitHub Pages](https://evanskistudios.github.io/)
 
 ### Social Links
+See all my [social links](https://evanskistudios.github.io/Links/)  
+  
 - [GameMaker Forums (Evanski)](https://forum.gamemaker.io/index.php?members/evanski.28930/)
 - [YouTube (EvanSkiStudios)](https://www.youtube.com/channel/UCTggXbP12hlwtP2Q-lDkojQ)
 - [Itch.io (Evanski)](https://evaccoon.itch.io/)
